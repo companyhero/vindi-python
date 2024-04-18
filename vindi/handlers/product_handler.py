@@ -28,7 +28,7 @@ class Product:
                 "price": self.price,
                 "schema_type": "per_unit",
             },
-            "metadata": {},
+            "metadata": {}
         }
 
 
